@@ -6,16 +6,16 @@ TABLEAU Link for Visual Insights: https://public.tableau.com/app/profile/venkata
 
 Uncover meaningful relationships between dietary habits, glucose responses, physical activity, and gut health.
 
-## 📋 Project Overview
+##  Project Overview
 This is a comprehensive data science project analyzing the **CGMacros dataset**—a rich, multimodal dataset of 45 adults tracked over 10 days with continuous glucose monitoring, dietary macronutrients, physical activity, and gut microbiome profiles. The objective is to uncover meaningful relationships across four interconnected health domains to enable personalized nutrition strategies and early identification of metabolic risk.
 
-## 🎯 Objectives
+##  Objectives
 - Conduct exploratory data analysis across diet, glucose, activity, and gut microbiome domains
 - Build machine learning models to predict postprandial glucose responses
 - Identify actionable patterns and correlations for personalized health interventions
 - Present findings through interactive visualizations and insights
 
-## 📊 Key Findings
+##  Key Findings
 
 ### Demographic Profile
 - **45 participants** tracked over 10 days
@@ -50,7 +50,7 @@ This is a comprehensive data science project analyzing the **CGMacros dataset**�
   - **RMSE**: 16.99 mg/dL
 - Successfully predicts **2-hour postprandial glucose responses**
 
-## 🔍 Key Discoveries
+##  Key Discoveries
 1. **Metabolic health is multifactorial**—no single factor determines glucose control
 2. **Holistic screening matters**—even normal-weight individuals with optimal cholesterol can exhibit dysglycemia
 3. **Personalized macronutrient strategies** significantly impact glucose outcomes
