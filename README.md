@@ -1,10 +1,7 @@
-# CGMacros_MachineLearning_Visualization_Python
-Uncover meaningful relationships between dietary habits, glucose responses, physical activity, and gut health.
-TABLEAU Link for Visual Insights: https://public.tableau.com/app/profile/venkata.botta/viz/02DataExplorers_Visuals_17514099877070/DataExplorersStoryboard
-
 # CGMacros: Machine Learning & Visualization for Personalized Nutrition
-
 Uncover meaningful relationships between dietary habits, glucose responses, physical activity, and gut health.
+
+TABLEAU Link for Visual Insights: https://public.tableau.com/app/profile/venkata.botta/viz/02DataExplorers_Visuals_17514099877070/DataExplorersStoryboard
 
 ##  Project Overview
 This is a comprehensive data science project analyzing the **CGMacros dataset**—a rich, multimodal dataset of 45 adults tracked over 10 days with continuous glucose monitoring, dietary macronutrients, physical activity, and gut microbiome profiles. The objective is to uncover meaningful relationships across four interconnected health domains to enable personalized nutrition strategies and early identification of metabolic risk.
